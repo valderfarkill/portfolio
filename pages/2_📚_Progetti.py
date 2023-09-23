@@ -11,6 +11,13 @@ st.sidebar.success("Select a Project above.")
 
 st.markdown(
     """
+    🌺[Iris Classification](https://progetti-portfolio-cgdbzkqplohmdza3abm9jv.streamlit.app/)
+
+    📺[Audience Raggiunta](https://progetti-portfolio-yglqq4wtpgv7ztnzxnyfct.streamlit.app/)
+
+    🚀[Profitto Startup](https://progetti-portfolio-v4muqyxvqofelwuhea7yue.streamlit.app/)
+
+    
     Streamlit is an open-source app framework built specifically for
     Machine Learning and Data Science projects.
     **👈 Select a demo from the sidebar** to see some examples
