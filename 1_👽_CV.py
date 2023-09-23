@@ -7,15 +7,14 @@ st.set_page_config(
 
 st.write("# Welcome to Rocket Science! 👋")
 
-st.sidebar.success("Select a Project above.")
+st.sidebar.success("aaa")
 
 st.markdown(
     """
-    Streamlit is an open-source app framework built specifically for
-    Machine Learning and Data Science projects.
-    **👈 Select a demo from the sidebar** to see some examples
-    of what Streamlit can do!
-    ### Want to learn more?
+    Benvenuto sulla mia pagina creata interamente con streamlit.
+    
+    👈 Seleziona le sezioni sulla sidebar per scoprire chi sono, cosa faccio e per contattarmi.
+    ### Vuoi scoprire streamlit?
     - Check out [streamlit.io](https://streamlit.io)
     - Jump into our [documentation](https://docs.streamlit.io)
     - Ask a question in our [community

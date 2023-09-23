@@ -5,16 +5,40 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.write("# Welcome to Streamlit! 👋")
+st.title("# Contattami qui 👨🏻‍💻")
 
 st.sidebar.success("Select a Project above.")
 
-st.markdown(
+
+st.subheader(
     """
-    📧 [Email](bigzam.3@outlook.com)
-
     👥 [Linkedin](https://www.linkedin.com/in/emanuele-tonti/)
+    """)
 
+st.subheader(
+    """
     🗺️ [Instagram](https://www.instagram.com/_goldenmanu_/)
+    """)
+
+st.subheader(":mailbox: Scrivimi una mail!")
+
+
+contact_form = """
+<form action="https://formsubmit.co/YOUREMAIL@EMAIL.COM" method="POST">
+     <input type="hidden" name="_captcha" value="false">
+     <input type="text" name="name" placeholder="Your name" required>
+     <input type="email" name="email" placeholder="Your email" required>
+     <textarea name="message" placeholder="Your message here"></textarea>
+     <button type="submit">Send</button>
+</form>
 """
-)
+
+st.markdown(contact_form, unsafe_allow_html=True)
+
+# Use Local CSS File
+def local_css(file_name):
+    with open(file_name) as f:
+        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+
+
+local_css("style/style.css")

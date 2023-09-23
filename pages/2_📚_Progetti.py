@@ -5,17 +5,21 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.write("# Progetti 👋")
+st.title(" # Progetti 🖥️")
 
-st.sidebar.success("Select a Project above.")
+st.sidebar.success("aaa")
 
-st.markdown(
+st.subheader(
     """
-    🌺[Iris Classification](https://progetti-portfolio-cgdbzkqplohmdza3abm9jv.streamlit.app/)
+    🌺[Iris Classification](https://progetti-portfolio-cgdbzkqplohmdza3abm9jv.streamlit.app/) 
+    """)
 
+st.subheader(
+    """
     📺[Audience Regressione Multipla](https://progetti-portfolio-yglqq4wtpgv7ztnzxnyfct.streamlit.app/)
+    """)
 
+st.subheader(
+    """
     🚀[Startup Linear Regression](https://progetti-portfolio-v4muqyxvqofelwuhea7yue.streamlit.app/)
-    
-"""
-)
+    """)
