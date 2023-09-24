@@ -5,7 +5,7 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.title("Contattami qui 👨🏻‍💻")
+st.title("Contattami qui 📩")
 
 
 

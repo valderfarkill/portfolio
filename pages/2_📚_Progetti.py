@@ -32,3 +32,10 @@ st.subheader(
     """
     🏢[Immobili Linear Regression](https://progetti-portfolio-3qnshxc8p25qkaohegwadq.streamlit.app/)
     """)
+
+st.subheader(
+    """
+    🎭[Fake News Detection](https://progetti-portfolio-774v2foj9eyxawgfkrt4wz.streamlit.app/)
+    """)
+
+
