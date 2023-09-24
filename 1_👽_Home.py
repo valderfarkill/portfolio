@@ -5,7 +5,7 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.write("# Welcome to Rocket Science! 👋")
+st.header("# Welcome to Rocket Science! 👋")
 
 
 st.subheader(
@@ -28,6 +28,6 @@ st.subheader(
 
 st.subheader(
     """
-    [Download CV](https://1drv.ms/b/s!Atj-jGYi7nkRgZRRVvfzOjB-iY8GUg)
+    [Emanuele Tonti CV](https://1drv.ms/b/s!Atj-jGYi7nkRgZRRVvfzOjB-iY8GUg)
 """
 )
