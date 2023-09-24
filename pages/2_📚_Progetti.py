@@ -5,13 +5,13 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.title(" # Progetti 🖥️")
+st.title("Progetti 🖥️")
 
 st.sidebar.success("aaa")
 
 st.subheader(
     """
-    🌺[Iris Classification](https://progetti-portfolio-cgdbzkqplohmdza3abm9jv.streamlit.app/) 
+    🌺[Iris Classification](https://progetti-portfolio-ruhwsrys82wz43tk7csv4f.streamlit.app/) 
     """)
 
 st.subheader(
@@ -21,5 +21,10 @@ st.subheader(
 
 st.subheader(
     """
-    🚀[Startup Linear Regression](https://progetti-portfolio-v4muqyxvqofelwuhea7yue.streamlit.app/)
+    🚀[Startup Linear Regression](https://progetti-portfolio-5hlpsswcnuu4injkjtxcy4.streamlit.app/)
+    """)
+
+st.subheader(
+    """
+    🐧[Penguins Logistic Regression](https://progetti-portfolio-esmqc3ivnvffvywxcg3b2z.streamlit.app/)
     """)

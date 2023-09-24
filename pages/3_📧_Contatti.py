@@ -5,7 +5,7 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.title("# Contattami qui 👨🏻‍💻")
+st.title("Contattami qui 👨🏻‍💻")
 
 st.sidebar.success("Select a Project above.")
 
@@ -13,6 +13,11 @@ st.sidebar.success("Select a Project above.")
 st.subheader(
     """
     👥 [Linkedin](https://www.linkedin.com/in/emanuele-tonti/)
+    """)
+
+st.subheader(
+    """
+    👨🏻‍💻 [Github](https://github.com/valderfarkill)
     """)
 
 st.subheader(
@@ -42,3 +47,4 @@ def local_css(file_name):
 
 
 local_css("style/style.css")
+
