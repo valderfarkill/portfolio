@@ -19,11 +19,6 @@ st.subheader(
     👨🏻‍💻 [Github](https://github.com/valderfarkill)
     """)
 
-st.subheader(
-    """
-    🗺️ [Instagram](https://www.instagram.com/_goldenmanu_/)
-    """)
-
 st.subheader(":mailbox: Scrivimi una mail!")
 
 
