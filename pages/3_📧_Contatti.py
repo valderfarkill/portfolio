@@ -7,7 +7,6 @@ st.set_page_config(
 
 st.title("Contattami qui 👨🏻‍💻")
 
-st.sidebar.success("Select a Project above.")
 
 
 st.subheader(

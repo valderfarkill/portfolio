@@ -7,7 +7,6 @@ st.set_page_config(
 
 st.write("# Welcome to Rocket Science! 👋")
 
-st.sidebar.success("aaa")
 
 st.subheader(
     """

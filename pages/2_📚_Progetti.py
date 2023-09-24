@@ -7,7 +7,6 @@ st.set_page_config(
 
 st.title("Progetti 🖥️")
 
-st.sidebar.success("aaa")
 
 st.subheader(
     """
