@@ -27,3 +27,8 @@ st.subheader(
     """
     🐧[Penguins Logistic Regression](https://progetti-portfolio-esmqc3ivnvffvywxcg3b2z.streamlit.app/)
     """)
+
+st.subheader(
+    """
+    🏢[Immobili Linear Regression](https://progetti-portfolio-3qnshxc8p25qkaohegwadq.streamlit.app/)
+    """)
