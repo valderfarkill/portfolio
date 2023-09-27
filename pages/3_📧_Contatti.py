@@ -7,16 +7,9 @@ st.set_page_config(
 
 st.title("Contattami qui 📩")
 
-
-
 st.subheader(
     """
     👥 [Linkedin](https://www.linkedin.com/in/emanuele-tonti/)
-    """)
-
-st.subheader(
-    """
-    👨🏻‍💻 [Github](https://github.com/valderfarkill)
     """)
 
 st.subheader(":mailbox: Scrivimi una mail!")
