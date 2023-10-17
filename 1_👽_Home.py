@@ -28,6 +28,6 @@ st.subheader(
 
 st.subheader(
     """
-    [Emanuele Tonti CV](https://1drv.ms/b/s!Atj-jGYi7nkRgZRRVvfzOjB-iY8GUg)
+    [Emanuele Tonti CV](https://1drv.ms/b/s!Atj-jGYi7nkRgZRv7XDQnDNolutQkw)
 """
 )
