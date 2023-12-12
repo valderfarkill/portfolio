@@ -10,27 +10,22 @@ st.title("Progetti 🖥️")
 
 st.subheader(
     """
-    🌺[Iris Classification](https://progetti-portfolio-ruhwsrys82wz43tk7csv4f.streamlit.app/) 
+    🌺[Iris](https://progetti-portfolio-ruhwsrys82wz43tk7csv4f.streamlit.app/) 
     """)
 
 st.subheader(
     """
-    📺[Audience Regressione Multipla](https://progetti-portfolio-yglqq4wtpgv7ztnzxnyfct.streamlit.app/)
+    🚀[Startup](https://progetti-portfolio-5hlpsswcnuu4injkjtxcy4.streamlit.app/)
     """)
 
 st.subheader(
     """
-    🚀[Startup Linear Regression](https://progetti-portfolio-5hlpsswcnuu4injkjtxcy4.streamlit.app/)
+    🐧[Penguins](https://progetti-portfolio-esmqc3ivnvffvywxcg3b2z.streamlit.app/)
     """)
 
 st.subheader(
     """
-    🐧[Penguins Logistic Regression](https://progetti-portfolio-esmqc3ivnvffvywxcg3b2z.streamlit.app/)
-    """)
-
-st.subheader(
-    """
-    🏢[Immobili Linear Regression](https://progetti-portfolio-3qnshxc8p25qkaohegwadq.streamlit.app/)
+    🏢[Immobili](https://progetti-portfolio-3qnshxc8p25qkaohegwadq.streamlit.app/)
     """)
 
 st.subheader(
