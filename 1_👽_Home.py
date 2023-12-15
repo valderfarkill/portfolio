@@ -5,19 +5,19 @@ st.set_page_config(
     page_icon="👋",
 )
 
+st.title("Emanuele Tonti")
 
-st.header("# Welcome to Rocket Science! 👋")
+st.header("#Su di me! 👋")
 
-
-st.subheader(
-    """
-    Benvenuto sulla mia pagina creata interamente con streamlit.
-"""
-)
+st.subheader("Data Analyst/Designer Product Manager")
+st.write("👋🏻 Ciao, Sono Manu. Designer e Data Analyst. Sto cercando attivamente lavoro.")
+st.write("🏋🏻 Hobby: ;i piace l'informatica, leggere, i videogiochi, e soprattuto mangiare!")
+st.write("👨🏼‍💻 Interessi accademici: Design, Data Science, Cybersecurity")
+st.write("💭 Prospetti ideali: Data Analyst, DBA, Product Manager, Designer, CYbersecurity Analyst")
 
 st.subheader(
     """   
-    👈 Seleziona le sezioni sulla sidebar per progetti e contatti.
+    👈 Seleziona le sezioni sulla sidebar per altre informazioni.
 """
 )
 
