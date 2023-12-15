@@ -35,3 +35,6 @@ def local_css(file_name):
 
 local_css("style/style.css")
 
+
+pdfFileObj = open('pdfs/Emanuele_Tonti_CV_.pdf', 'rb')
+st.sidebar.download_button('📄Scarica CV',pdfFileObj,file_name='Emanuele_Tonti_CV_.pdf',mime='pdf')

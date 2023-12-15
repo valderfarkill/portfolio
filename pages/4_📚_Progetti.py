@@ -34,3 +34,6 @@ st.subheader(
     """)
 
 
+pdfFileObj = open('pdfs/Emanuele_Tonti_CV_.pdf', 'rb')
+st.sidebar.download_button('📄Scarica CV',pdfFileObj,file_name='Emanuele_Tonti_CV_.pdf',mime='pdf')
+
