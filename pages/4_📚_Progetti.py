@@ -5,7 +5,7 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.title("Progetti 🖥️")
+st.title("🖥️ Progetti")
 
 
 st.subheader(

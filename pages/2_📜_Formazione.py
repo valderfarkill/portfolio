@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("📜Formazione")
+st.title("📜 Formazione")
 st.container()
 
 st.subheader("IFOA - Tecnico esperto nell'analisi e nella visualizzazione dei dati (IFTS) (2022-2023)")
