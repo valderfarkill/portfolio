@@ -5,6 +5,7 @@ st.set_page_config(
     page_icon="👋",
 )
 
+
 st.header("# Welcome to Rocket Science! 👋")
 
 
@@ -20,14 +21,5 @@ st.subheader(
 """
 )
 
-st.subheader(
-    """   
-    👇 Scarica pure il mio CV da qua sotto:
-"""
-)
-
-st.subheader(
-    """
-    [Emanuele Tonti CV](https://1drv.ms/b/s!Atj-jGYi7nkRgZRv7XDQnDNolutQkw)
-"""
-)
+pdfFileObj = open('pdfs/Emanuele_Tonti_CV_.pdf', 'rb')
+st.sidebar.download_button('📄Scarica CV',pdfFileObj,file_name='Emanuele_Tonti_CV_.pdf',mime='pdf')
