@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Technical Skills")
+st.title("📈 Technical Skills")
 
 st.header("Data ")
 columns = st.columns(7)

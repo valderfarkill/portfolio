@@ -5,7 +5,7 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.title("Emanuele Tonti")
+st.title("👽 Emanuele Tonti")
 
 st.header("#Su di me! 👋")
 
