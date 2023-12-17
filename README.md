@@ -1,1 +1,1 @@
-# portfolio
+# Benvenuti sul mio portfolio fatto interamente con Streamlit. Streamlit è una libreria open-source per Python che consente di creare applicazioni web interattive per machine learning e data science. È progettata per essere facile da usare e permette di creare app in modo rapido e semplice scrivendo script Python. 
